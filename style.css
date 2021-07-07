@@ -20,7 +20,7 @@ body {
     text-align: center;
     z-index: 4;
     position: fixed;
-    top: 30%;
+    top: 34%;
     right: 26px;
     height: 6rem;
     width: 6rem;
@@ -37,7 +37,7 @@ body {
     outline: none;
 }
 .position-top {
-    top: 45%;
+    top: 55%;
 }
 .record {
     background-color: red;
